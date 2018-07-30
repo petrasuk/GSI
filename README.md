@@ -1,3 +1,3 @@
-# Ulsan
+# GSI
 Tensorflow practice
 change
